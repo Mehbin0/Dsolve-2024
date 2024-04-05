@@ -12,7 +12,7 @@ https://github.com/Mehbin0/
 https://github.com/Akshaya-613/
 
 ## Idea
-Breif Idea in two three sentences 
+Centralised platform for hazzle free substitution arrangement, facilitating acceptance of slot through live-time notifications. 
 
 ## Features 
 1. 
