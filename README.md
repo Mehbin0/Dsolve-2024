@@ -4,12 +4,11 @@
 
 
 ## Team Name
-Name  
+albium  
 
-# Team Member
-Member 1 Github Link
+# Team Member https://github.com/Mehbin0/
 
-MEmber 2 Github Link
+https://github.com/Akshaya-613/
 
 ## Idea
 Breif Idea in two three sentences 
