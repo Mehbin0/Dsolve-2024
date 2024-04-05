@@ -15,7 +15,10 @@ https://github.com/Akshaya-613/
 Centralised platform for hazzle free substitution arrangement, facilitating acceptance of slot through live-time notifications. 
 
 ## Features 
-1. 
+1. Teacher absence notifications
+2. provision to commit the substitution
+3. option to contact teacher and request for substitution swap
+4. provision for staff advisor to monitor the faculty change
 
 ## Link to product walkthrough
 [link to video](Link Here)
