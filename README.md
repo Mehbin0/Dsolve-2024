@@ -31,8 +31,7 @@ Tkinter
 ## How to configure
 Instructions for setting up project
 
-## How to Run
-just run the two python files to get two interfaces created
+## How to RunPython source code, two images named MED.ICO, HOS1.png all should be saved to same local folder. Using python IDE, connect it to the local MySQL data base. and this code can be run.
 
 ## How to contribute ? 
 Features to implement 
