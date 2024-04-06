@@ -25,14 +25,14 @@ Centralised platform for hazzle free substitution arrangement, facilitating acce
 
    
 ## Libraries used
-Library Name - Version
+Tkinter
 
 
 ## How to configure
 Instructions for setting up project
 
 ## How to Run
-Instructions for running
+just run the two python files to get two interfaces created
 
 ## How to contribute ? 
 Features to implement 
